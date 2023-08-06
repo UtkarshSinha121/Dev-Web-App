@@ -1,0 +1,55 @@
+.uline{
+  text-decoration: none;
+  color: black;
+}
+a:hover{
+  color: rgb(20, 20, 184);
+}
+button.buttons:hover{
+  background-color: white;
+  font-weight: bold;
+}
+.icon{
+  margin-left: -40px;
+}
+.key{
+  margin-left:-40px
+}
+.img1{
+  height: 30px;
+  width: 30px;
+  border-radius: 20px;
+}
+.img3{
+  height: 250px;
+  width: 580px;
+  margin-left: 20px;
+
+  
+}
+.dev{
+  background-color: rgb(243, 239, 239);
+  margin-top: 0px;
+}
+.see{
+  text-decoration: none;
+  color: rgb(6, 6, 238);
+}
+.small{
+ font-size: small;
+ margin-top: -10px;
+}
+p.hove:hover{
+  color: rgb(10, 10, 207);
+}
+p.icon:hover{
+  color: rgb(25, 25, 199);
+  text-decoration: underline;
+}
+button.buttons2:hover{
+  background-color: rgb(151, 146, 146);
+}
+h3.head:hover{
+  color: rgb(17, 17, 192);
+}
+
