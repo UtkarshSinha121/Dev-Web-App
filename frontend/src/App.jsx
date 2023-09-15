@@ -13,8 +13,8 @@ function App() {
         <Navbar/>
          <Routes>
            <Route path='/' element={ <Navigate to = "/Dev-Web-App"/>}/>
-           <Route path='Dev-Web-App' element={<Home/>}/>
-           <Route path='login' element={<Login/>}/>
+           <Route path='/Dev-Web-App' element={<Home/>}/>
+           <Route path='/login' element={<Login/>}/>
                 
            
 
